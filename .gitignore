@@ -1,0 +1,17 @@
+*
+!*.*
+*.o
+*.s
+*.a
+*.dat
+*.xrk
+*.xrz
+*.hrz
+*~
+a.out
+.depends*
+rs3
+wifiutil
+\#*
+.\#*
+cscope.out
